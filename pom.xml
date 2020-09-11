@@ -171,7 +171,7 @@
 		<feign.version>8.7.1</feign.version>
 		<ribbon.version>2.1.0</ribbon.version>
 		<etcd4j.version>2.7.0</etcd4j.version>
-		<netty.version>4.1.0.Beta5</netty.version>
+		<netty.version>5.0.0.Alpha2</netty.version>
 		<lombok.version>1.16.4</lombok.version>
 		<common.configuration.version>1.8</common.configuration.version>
 	</properties>
